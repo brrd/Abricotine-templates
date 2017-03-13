@@ -1,12 +1,6 @@
 # Abricotine Templates
 
-This repository aims to share and store [Abricotine](https://github.com/brrd/Abricotine) (> 0.3.0) templates to use with the "Export as HTML" function.
-
-Feel free to add your own.
-
-# Usage
-
-Read [Abricotine documentation](https://github.com/brrd/Abricotine/blob/master/docs/templates.md) to learn how to install, create and use templates.
+**This repository is deprecated.** Abricotine templates have been moved into the main repo: https://github.com/brrd/Abricotine/tree/master/default/templates
 
 # License
 
